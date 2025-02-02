@@ -1,5 +1,3 @@
 # Godot 4+ specific ignores
 .godot/
-addons/*
-!addons/tree_access/
-!addons/.editorconfig
+/android/
