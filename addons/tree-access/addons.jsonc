@@ -2,7 +2,7 @@
   "$schema": "https://chickensoft.games/schemas/addons.schema.json",
   "name": "tree-access",
   "description": "An Autoload which allows all scripts to access the Scene Tree (not just Node classes).",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "cache": "../.addons",
   "addons": {}
 }
